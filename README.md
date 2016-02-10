@@ -1,5 +1,7 @@
 # FLOW
 
+![Alt text](flow-thumb.jpg?raw=true "FLOW - Font Download by DSGN.CO")
+
 A font Made by DSGN.CO
 FLOW is free for personal use.
 
